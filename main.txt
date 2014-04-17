@@ -6,6 +6,6 @@
     return 0;
 }
 
-èçìåíenija
+izmenenija
 
 dobavleno
